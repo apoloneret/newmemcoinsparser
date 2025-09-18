@@ -74,7 +74,7 @@ README.md
 * Add safe, opt-in wallet integration that delegates signing to user-controlled wallets (recommended)
 * Add better logging, observability, and test coverage
 
-## Disclaimer (put this prominently in README and UI)
+## Disclaimer 
 
 **This project is for educational and research purposes only. It is not financial advice.** Using automated trading tools, particularly sniper/bots, may be illegal in some jurisdictions and can cause financial loss. Always test on public testnets and handle private keys with extreme care.
 
